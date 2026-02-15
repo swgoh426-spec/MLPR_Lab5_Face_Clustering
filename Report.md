@@ -44,6 +44,6 @@ A) Cross-validation is used to evaluate how well a model generalises to unseen d
 
 
 
-Q) Explain variance and bias in terms of KNN?
+Q) Explain variance and bias in terms of KNN?  
 A) In KNN, the bias and variance depend on the value of K. A small value of K makes the model very flexible, which results in low bias but high variance because it becomes sensitive to noise and may overfit the training data. A large value of K makes the decision boundary smoother, which leads to high bias but low variance and can cause underfitting. Therefore, choosing an optimal value of K helps in balancing bias and variance and improves the model’s ability to generalise to unseen data.
 
