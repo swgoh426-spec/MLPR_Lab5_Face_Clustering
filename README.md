@@ -88,6 +88,7 @@ K-Means successfully grouped the detected faces based on similarity in HSV space
 
 - Code/ → Jupyter notebook with outputs
 - Output images/ → Saved face detection results
+- Report.md → Written answers to the theory questions
 - Lab 5_Spring 2026.pdf → Lab instructions
 - README.md → Documentation
 
